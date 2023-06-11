@@ -1,0 +1,4 @@
+baseURL = 'https://giuseppepitruzzella.github.io/bip/'
+languageCode = 'en-us'
+title = 'Jax'
+theme='PaperMod'
