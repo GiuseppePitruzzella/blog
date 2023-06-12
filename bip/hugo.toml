@@ -21,13 +21,13 @@ paginate=10
 
   [[params.social]]
     name="github"
-    url="localhost"
+    url="https://github.com/GiuseppePitruzzella"
   [[params.social]]
     name="leetcode"
-    url="localhost"
+    url="https://leetcode.com/jax-dev/"
   [[params.social]]
     name="instagram"
-    url="localhost" 
+    url="https://www.instagram.com/giupitruzzella/" 
   
   # Show a global language switcher in the navigation bar
   enableGlobalLanguageMenu = true
